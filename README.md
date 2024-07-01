@@ -13,3 +13,8 @@ The pipelining stages reduces the execution time by processing the instruction i
 The overall general RISC block diagram or hardware looks like
 #
 ![processor_final](https://github.com/rajeevkumarsinghimp/RISC-1200-processor/assets/174273198/44226a50-997b-43c0-8d75-62b4591c0963)
+#
+the tesbench output looks like this
+#
+![Testbench output](https://github.com/rajeevkumarsinghimp/RISC-1200-processor/assets/174273198/7c126fd2-35c8-417c-ae34-a075987905e5)
+
