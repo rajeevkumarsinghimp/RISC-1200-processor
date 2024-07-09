@@ -1,3 +1,6 @@
+# Please go to other branch for the code and seeing project
+#
+
 # RISC1200-processor
 This project serves to simulate and validate the behavior of a RISC processor in Verilog, demonstrating the sequential execution of instructions through multiple pipeline stages (Fetch, Decode, Execute, Memory, Write Back). It includes handling of basic ALU operations, immediate operations, memory accesses, and branch instructions.
 The processor nowadays have various stages of operation for increasing the overall speed for instruction execution by the use of pipelining
